@@ -1,0 +1,14 @@
+# Production handoff — chosen concept
+- Brand / user outcome / key CTA:
+- Approved visual direction and why:
+- Source materials and permissions:
+- Color tokens (hex + functional roles):
+- Font pair / Cyrillic check / source / license:
+- Grid, max width, responsive breakpoints, spacing:
+- Hero and content hierarchy:
+- Image plan (real vs generated labeled):
+- Texture, pattern, animation principles:
+- UX accessibility and performance requirements:
+- Claims and evidence registry:
+- Deliverables and crop/size specification:
+- Review checklist and revisions:
